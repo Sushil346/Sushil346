@@ -1,6 +1,6 @@
 ## Hi there 👋
 
- #  **I'm Damodar Bagale!** 🚀  
+ #  **I'm Damodar Bagale !!!**   
 ### **Computer Engineer | AI / Machine-Learning Enthusiast | Open Source Explorer**  
 
 🔬 **Exploring AI & Deep Learning** to push the boundaries of what's possible.  
@@ -14,14 +14,14 @@
 ---
 
 ### 🌐 **Connect with me**  
+<a href="https://damodarbagale.com.np" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/HTML_logo.png" alt="Portfolio" width="120" />
+</a>
 <a href="https://www.linkedin.com/in/damodarbagaleofficial/" target="_blank">
-  <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn" width="120" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/08/LinkedIn_Logo_2023.png" alt="LinkedIn" width="120" />
 </a>
 <a href="https://x.com/021Sushil346" target="_blank">
-  <img src="https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=twitter&logoColor=white" alt="Twitter" width="120" />
-</a>
-<a href="https://damodarbagale.com.np" target="_blank">
-  <img src="https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=web&logoColor=white" alt="Portfolio" width="120" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/60/X_Logo_2023.svg" alt="X (formerly Twitter)" width="120" />
 </a>
 
 ---
