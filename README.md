@@ -13,16 +13,17 @@
 
 ---
 
-### 🌐 **Connect with me**  
+### 🌐 **Connect with me**   
 <a href="https://damodarbagale.com.np" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/HTML_logo.png" alt="Portfolio" width="120" />
+  <img src="https://img.shields.io/badge/-Portfolio-black?style=for-the-badge&logo=web&logoColor=white&border-radius=12px" alt="Portfolio" width="120" />
 </a>
 <a href="https://www.linkedin.com/in/damodarbagaleofficial/" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/08/LinkedIn_Logo_2023.png" alt="LinkedIn" width="120" />
+  <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white&border-radius=12px" alt="LinkedIn" width="120" />
 </a>
 <a href="https://x.com/021Sushil346" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/60/X_Logo_2023.svg" alt="X (formerly Twitter)" width="120" />
+  <img src="https://img.shields.io/badge/-X-black?style=for-the-badge&logo=x&logoColor=white&border-radius=12px" alt="X" width="120" />
 </a>
+
 
 ---
 
