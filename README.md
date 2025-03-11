@@ -13,16 +13,18 @@
 
 ---
 
-### 🌐 **Connect with me**   
+### 🌐 **Connect with me** 
 <a href="https://damodarbagale.com.np" target="_blank">
-  <img src="https://img.shields.io/badge/-Portfolio-black?style=for-the-badge&logo=web&logoColor=white&border-radius=12px" alt="Portfolio" width="120" />
+  <img src="https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=web&logoColor=white" alt="Portfolio" width="120" />
 </a>
 <a href="https://www.linkedin.com/in/damodarbagaleofficial/" target="_blank">
-  <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white&border-radius=12px" alt="LinkedIn" width="120" />
+  <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn" width="160" />
 </a>
 <a href="https://x.com/021Sushil346" target="_blank">
-  <img src="https://img.shields.io/badge/-X-black?style=for-the-badge&logo=x&logoColor=white&border-radius=12px" alt="X" width="120" />
+  <img src="https://img.shields.io/badge/-Twitter-black?style=flat-square&logo=twitter&logoColor=white" alt="Twitter" width="110" />
 </a>
+
+ > *    Email : bagalesushil37@gmail.com
 
 
 ---
